@@ -18,7 +18,7 @@ int main()
         cout<<"ticket_price is 1500/=\n";
     }
     else{
-        cout<<"invalid\n";
+        cout<<"No Charges\n";
     }
     return 0;
 }

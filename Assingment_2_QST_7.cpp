@@ -9,6 +9,7 @@ int main()
     children=0-20;
     regular=20-40;
     reference=40-80;
+    cout<<"Entre book\n";
     cin>>book;
         if(days<10 && days<=20 && "children"){
             cout<<"book fee is 800/=\n";

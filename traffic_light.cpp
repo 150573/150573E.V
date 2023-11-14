@@ -32,6 +32,8 @@ int main() {
                 this_thread::sleep_for(chrono::seconds(greenDuration));
                 currentLight = 1; // Switch to Red
                 break;
+                default:
+                cout<<"invalid\n";
         }
     }
 
